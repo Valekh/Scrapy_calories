@@ -1,5 +1,4 @@
 # Scrapy_calories
-(second scraper - https://github.com/Valekh/Youtube_Scraper)
 
 <h2> The meaning of the project </h2>
 
